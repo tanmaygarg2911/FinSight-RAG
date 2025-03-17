@@ -1,7 +1,3 @@
-Here's a refined and polished version of your content for the `README.md` file:  
-
----
-
 # **FinSight-RAG**  
 🚀 **FinSight-RAG** is an AI-powered Q&A bot designed to extract meaningful insights from **Profit & Loss (P&L) statements** in PDF format using **Retrieval-Augmented Generation (RAG)**. Built with **Python, LangChain, Pinecone, and Streamlit**, it allows users to seamlessly upload financial documents and obtain precise, data-driven answers in real time. 📊💡  
 
